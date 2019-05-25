@@ -1,0 +1,437 @@
+Computer-aided	
+medical	medical
+instruments	instrument
+are	be
+increasingly	increasingly
+making	make
+life	life
+easier	easy
+for	
+doctors	doctor
+and	
+their	
+patients	patient
+.	
+\n	
+It	
+used	use
+to	
+be	be
+that	
+the	
+common	common
+but	
+complicated	complicated
+procedure	procedure
+to	
+get	get
+a	
+tooth	tooth
+crown	crown
+required	require
+several	several
+visits	visit
+to	
+the	
+dentist	dentist
+’	
+s	s
+office	office
+.	
+\n	
+While	
+a	
+dental	dental
+technician	technician
+was	be
+preparing	prepare
+the	
+permanent	permanent
+replacement	replacement
+for	
+a	
+damaged	damage
+tooth	tooth
+,	
+the	
+patient	patient
+had	have
+to	
+wear	wear
+a	
+temporary	temporary
+crown	crown
+.	
+\n	
+Since	
+the	
+mid	mid
+-	
+1980s	
+,	
+this	
+procedure	procedure
+has	have
+gradually	gradually
+been	be
+taken	take
+over	
+by	
+robotic	robotic
+machines	machine
+that	
+reduce	reduce
+the	
+job	job
+to	
+just	just
+over	
+two	
+hours	hour
+.	
+\n	
+Sitting	sit
+in	
+the	
+dentist	dentist
+’	
+s	s
+chair	chair
+takes	take
+even	even
+less	less
+time	time
+.	
+\n	
+“	
+It	
+’	
+s	s
+about	
+12	
+minutes	minute
+worth	
+of	
+chair	chair
+time	time
+for	
+the	
+patient	patient
+\n	
+and	
+the	
+rest	rest
+of	
+the	
+time	time
+it	
+’	
+s	s
+work	work
+that	
+’	
+s	s
+taking	take
+place	place
+outside	
+the	
+patient	patient
+’	
+s	s
+mouth	mouth
+,	
+”	
+said	say
+dentist	dentist
+Michael	
+Silveus	
+.	
+\n	
+At	
+his	
+office	office
+in	
+Northern	northern
+Virginia	
+,	
+close	close
+to	
+Washington	
+,	
+Silveus	
+and	
+his	
+assistant	assistant
+prepare	prepare
+a	
+patient	patient
+’	
+s	s
+tooth	tooth
+for	
+a	
+new	new
+crown	crown
+.	
+\n	
+The	
+actual	actual
+drilling	drilling
+takes	take
+about	
+five	
+minutes	minute
+.	
+\n	
+Instead	instead
+of	
+making	make
+the	
+impression	impression
+of	
+the	
+damaged	damage
+tooth	tooth
+in	
+a	
+plastic	plastic
+material	material
+,	
+\n	
+Silveus	
+uses	use
+a	
+wand	wand
+with	
+a	
+video	video
+camera	camera
+to	
+scan	scan
+the	
+tooth	tooth
+and	
+the	
+surrounding	surround
+area	area
+.	
+\n	
+At	
+this	
+point	point
+the	
+computer	computer
+takes	take
+over	
+,	
+designing	design
+the	
+new	new
+crown	crown
+and	
+creating	create
+instructions	instruction
+for	
+a	
+robotic	robotic
+milling	milling
+machine	machine
+.	
+\n	
+A	
+porcelain	porcelain
+cube	cube
+,	
+no	
+larger	large
+than	
+the	
+tooth	tooth
+,	
+is	be
+inserted	insert
+between	
+two	
+precise	precise
+drills	drill
+,	
+\n	
+similar	similar
+to	
+the	
+dentist	dentist
+’	
+s	s
+drill	drill
+,	
+that	
+grind	grind
+away	away
+excess	excess
+material	material
+,	
+turning	turn
+the	
+cube	cube
+into	
+a	
+perfectly	perfectly
+matching	match
+tooth	
+crown	crown
+.	
+\n	
+To	
+harden	harden
+,	
+the	
+crown	crown
+must	must
+be	be
+baked	bake
+at	
+high	high
+temperature	temperature
+for	
+about	about
+ten	ten
+minutes	minute
+.	
+\n	
+During	
+that	
+process	process
+,	
+it	
+also	also
+gets	get
+tinted	tint
+to	
+match	match
+the	
+color	color
+of	
+the	
+neighboring	neighboring
+teeth	teeth
+,	
+\n	
+so	
+it	
+is	be
+ready	ready
+to	
+be	be
+cemented	cement
+in	
+the	
+patient	patient
+’	
+s	s
+mouth	mouth
+.	
+\n	
+Patients	patient
+are	be
+pleased	pleased
+with	
+the	
+result	result
+.	
+\n	
+“	
+It	
+feels	
+amazing	amaze
+.	
+The	
+tooth	tooth
+feels	feel
+like	
+my	
+tooth	tooth
+,	
+”	
+said	say
+one	
+patient	patient
+.	
+\n	
+Silveus	
+said	say
+even	even
+this	
+technology	technology
+may	may
+someday	someday
+become	become
+obsolete	obsolete
+.	
+\n	
+“	
+The	
+other	other
+thing	thing
+we	
+look	look
+forward	forward
+to	
+is	be
+genetic	genetic
+engineering	engineering
+and	
+eventually	eventually
+cloning	cloning
+,	
+\n	
+so	
+you	
+can	can
+make	make
+the	
+crown	crown
+out	
+of	
+actually	actually
+enamel	enamel
+,	
+just	just
+like	
+the	
+patient	patient
+’	
+s	s
+natural	natural
+teeth	teeth
+are	be
+,	
+”	
+said	say
+Silveus	
+.	
+\n	
+But	
+for	
+now	now
+,	
+he	
+said	say
+,	
+his	
+patients	patient
+are	be
+happy	happy
+to	
+be	be
+able	able
+to	
+get	get
+a	
+new	new
+crown	crown
+in	
+just	just
+one	
+visit	visit
+.	
+\n	

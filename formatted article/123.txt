@@ -1,0 +1,13 @@
+Scientists have been experimenting with four-legged robots for years, trying to see if they could be used as pack animals for carrying heavy loads over a difficult terrain. But the machine's power requirements limited their potential. That's changed, with a running robot designed by a group of engineers at Massachusetts Institute of Technology that operates on batteries rather than heavy gasoline-powered engines.
+Scientists say their robots will soon be able to run like cheetahs. 
+But for now, the different technologies that will bring them closer to everyday life are still being tested.
+One of the obstacles continues to be power consumption. These complicated machines are still relatively heavy and their numerous motors require a lot of energy to run.
+The most powerful among them are either tethered to a power source or have a gasoline-powered generator onboard.
+But engineers at the Massachusetts Institute of Technology have designed a 30-kilogram cheetah-like robot that is light enough to run on batteries.
+“This robot can actually jump 40 centimeters high and it can land very safely and then it can run, sprint, because of the special, motor technology we developed,” said Sangbae Kim, director of MIT Biomimetics Robotic Lab. 
+Kim says the robot needs only about 700 watts of power. Its limbs and other parts were made in a 3-D printer and reinforced with the strong, light-weight plastic called Kevlar, used for modern military helmets and bodysuits.
+“The frame has to be very light and very stiff, so we designed this frame to handle these high forces and the high shock,” he said.
+But the development of MIT's robot is not without setbacks. Its limbs must sustain tremendous force and sometimes they break.
+Kim says another special feature is the custom-made motor controller.
+“It is also designed by us because none of the commercially available products can handle this kind of power,” he said.
+Researchers say the new technologies used on this robot may find their way to artificial limbs as well as other high-tech machines being developed to replace humans at back-breaking jobs.

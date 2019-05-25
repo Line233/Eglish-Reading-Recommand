@@ -1,0 +1,668 @@
+HIV	hiv
+,	
+the	
+virus	virus
+that	
+causes	cause
+AIDS	aid
+,	
+frequently	frequently
+mutates	
+.	
+\n	
+That	
+has	have
+allowed	allow
+the	
+virus	virus
+to	
+bypass	bypass
+the	
+immune	immune
+system	system
+and	
+infect	infect
+about	
+80	
+million	
+people	people
+over	
+the	
+last	last
+35	
+years	year
+.	
+\n	
+However	however
+,	
+researchers	researcher
+say	say
+the	
+rapid	rapid
+evolution	evolution
+of	
+HIV	hiv
+actually	actually
+may	may
+be	be
+reducing	reduce
+its	
+ability	ability
+to	
+cause	cause
+AIDS	aid
+.	
+\n	
+Oxford	oxford
+University	university
+Professor	professor
+Phillip	
+Goulder	
+,	
+the	
+lead	lead
+scientist	scientist
+in	
+the	
+study	study
+,	
+\n	
+said	say
+,	
+“	
+One	
+of	
+the	
+quintessential	
+features	feature
+of	
+HIV	hiv
+is	be
+its	
+ability	ability
+to	
+mutate	
+and	
+evade	evade
+the	
+best	best
+things	thing
+we	
+can	can
+throw	throw
+at	
+it	
+,	
+\n	
+whether	
+its	
+immune	immune
+responses	response
+or	
+antiretroviral	
+drugs	drug
+.	
+That	
+’	
+s	s
+its	
+real	real
+strength	strength
+.	
+”	
+\n	
+But	
+HIV	hiv
+is	be
+not	not
+omnipotent	omnipotent
+.	
+\n	
+“	
+Even	even
+HIV	hiv
+has	have
+some	
+weaknesses	weakness
+.	
+The	
+fact	fact
+is	be
+there	
+are	be
+some	
+parts	part
+of	
+the	
+virus	virus
+that	
+really	really
+[	
+don	
+’	
+t	t
+]	
+like	
+to	
+change	change
+.	
+\n	
+And	
+one	
+of	
+these	
+regions	region
+is	be
+the	
+central	central
+core	core
+that	
+encapsulates	
+the	
+two	
+copies	copy
+of	
+the	
+viral	viral
+RNA	
+and	
+the	
+various	various
+viral	viral
+enzymes	enzyme
+.	
+\n	
+That	
+region	region
+of	
+the	
+virus	virus
+can	can
+mutate	
+.	
+\n	
+But	
+if	
+it	
+mutates	
+it	
+usually	usually
+damages	damage
+the	
+ability	ability
+of	
+the	
+virus	virus
+to	
+multiply	multiply
+,	
+replicate	replicate
+,	
+efficiently	efficiently
+,	
+”	
+he	
+said	say
+.	
+\n	
+RNA	
+is	be
+a	
+molecule	molecule
+necessary	necessary
+in	
+the	
+production	production
+of	
+proteins	protein
+that	
+are	be
+essential	essential
+for	
+life	life
+.	
+\n	
+Goulder	
+said	say
+the	
+most	most
+effective	effective
+responses	response
+to	
+HIV	hiv
+target	target
+the	
+capsid	
+protein	protein
+.	
+\n	
+It	
+encloses	enclose
+the	
+virus	virus
+’	
+nucleic	
+acid	acid
+,	
+which	
+allows	allow
+the	
+transfer	transfer
+of	
+genetic	genetic
+information	information
+between	
+different	different
+generations	generation
+of	
+the	
+virus	virus
+.	
+\n	
+HIV	hiv
+’	
+s	s
+many	many
+mutations	
+take	take
+their	
+toll	toll
+.	
+\n	
+“	
+The	
+accumulation	accumulation
+of	
+these	
+mutations	
+over	
+time	time
+effectively	effectively
+results	result
+in	
+a	
+diminution	diminution
+of	
+the	
+ability	ability
+of	
+the	
+virus	virus
+to	
+infect	infect
+cells	cell
+efficiently	efficiently
+and	
+to	
+cause	cause
+disease	disease
+.	
+\n	
+So	so
+that	
+’	
+s	s
+a	
+good	good
+thing	thing
+,	
+”	
+he	
+said	say
+.	
+\n	
+HIV	hiv
+,	
+he	
+said	say
+,	
+becomes	become
+less	less
+virulent	virulent
+,	
+losing	lose
+some	
+ability	ability
+to	
+cause	cause
+AIDS	aid
+through	
+the	
+collapse	collapse
+of	
+the	
+immune	immune
+system	system
+.	
+\n	
+But	
+could	could
+HIV	hiv
+ever	ever
+reach	reach
+the	
+point	point
+where	where
+it	
+mutates	
+into	
+something	something
+that	
+does	do
+not	not
+cause	cause
+disease	disease
+?	
+\n	
+Goulder	
+said	say
+,	
+“	
+It	
+is	be
+but	
+speculative	speculative
+to	
+say	say
+what	
+’	
+s	s
+going	go
+to	
+happen	happen
+in	
+10	
+years	year
+of	
+tens	ten
+of	
+decades	decade
+.	
+\n	
+If	
+the	
+trend	trend
+that	
+we	
+’	
+ve	
+seen	see
+in	
+the	
+last	last
+10	
+years	year
+in	
+Botswana	botswana
+were	be
+to	
+continue	continue
+–	
+\n	
+and	
+I	
+see	see
+no	
+reason	reason
+why	why
+it	
+shouldn	
+’	
+t	t
+–	
+\n	
+I	
+think	think
+the	
+number	number
+of	
+people	people
+who	
+can	can
+control	control
+the	
+virus	virus
+through	
+their	
+immune	immune
+system	system
+would	would
+definitely	definitely
+go	go
+up	
+–	
+\n	
+or	
+be	be
+expected	expect
+to	
+go	go
+up	
+–	
+and	
+eventually	eventually
+could	could
+be	be
+some	
+tens	ten
+of	
+decades	decade
+down	
+the	
+track	track
+–	
+the	
+majority	majority
+of	
+people	people
+.	
+”	
+\n	
+The	
+research	research
+was	be
+based	base
+on	
+the	
+HIV	hiv
+-	
+1	
+strain	strain
+that	
+typically	typically
+infects	infect
+people	people
+in	
+southern	southern
+Africa	africa
+.	
+\n	
+Goulder	
+pointed	point
+out	
+that	
+another	
+strain	strain
+of	
+the	
+virus	virus
+,	
+HIV	hiv
+-	
+2	
+,	
+which	
+occurs	occur
+in	
+West	west
+Africa	africa
+,	
+\n	
+causes	cause
+AIDS	aid
+in	
+a	
+smaller	small
+fraction	fraction
+of	
+people	people
+it	
+infects	infect
+.	
+\n	
+“	
+You	
+know	know
+,	
+it	
+’	
+s	
+not	not
+impossible	impossible
+to	
+see	see
+HIV	hiv
+becoming	become
+less	less
+of	
+a	
+cause	cause
+of	
+disease	disease
+.	
+\n	
+And	
+that	
+’	
+s	s
+what	
+you	
+see	see
+in	
+the	
+monkeys	monkey
+who	
+are	be
+naturally	naturally
+infected	infect
+with	
+SIV	
+,	
+\n	
+the	
+relation	relation
+of	
+HIV	hiv
+,	
+which	
+is	be
+where	where
+we	
+actually	actually
+got	get
+HIV	hiv
+from	
+.	
+\n	
+They	
+suffer	suffer
+no	
+disease	disease
+at	
+all	
+,	
+”	
+he	
+said	say
+.	
+\n	
+SIV	
+stands	stand
+for	
+Simian	
+Immunodeficiency	
+Virus	virus
+.	
+\n	
+Professor	professor
+Goulder	
+also	also
+said	say
+the	
+greater	great
+use	use
+of	
+antiretroviral	
+drugs	drug
+appears	appear
+to	
+affect	affect
+the	
+virulence	virulence
+of	
+HIV	hiv
+.	
+\n	
+The	
+drugs	drug
+may	may
+accelerate	accelerate
+the	
+evolution	evolution
+of	
+those	
+HIV	hiv
+variations	variation
+that	
+have	have
+a	
+“	
+weaker	weak
+ability	ability
+to	
+replicate	replicate
+.	
+”	
+\n	
+The	
+findings	finding
+appear	appear
+in	
+the	
+journal	journal
+Proceedings	proceeding
+of	
+the	
+National	national
+Academy	academy
+of	
+Sciences	science
+.	
+\n	
+Goulder	
+and	
+his	
+Oxford	oxford
+colleagues	colleague
+worked	work
+with	
+scientists	scientist
+from	
+South	south
+Africa	africa
+,	
+\n	
+Canada	canada
+and	
+Japan	japan
+,	
+as	as
+well	well
+as	
+Harvard	
+University	university
+and	
+Microsoft	
+Research	research
+.	
+\n	

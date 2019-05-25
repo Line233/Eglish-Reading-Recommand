@@ -1,0 +1,788 @@
+In	
+computer	computer
+science	science
+,	
+artificial	artificial
+intelligence	intelligence
+(	
+AI	ai
+)	
+,	
+sometimes	sometimes
+called	call
+machine	machine
+intelligence	intelligence
+,	
+is	be
+intelligence	intelligence
+demonstrated	demonstrate
+by	
+machines	machine
+,	
+in	
+contrast	contrast
+to	
+the	
+natural	natural
+intelligence	intelligence
+displayed	display
+by	
+humans	human
+and	
+animals	animal
+.	
+Colloquially	
+,	
+the	
+term	term
+"	
+artificial	artificial
+intelligence	intelligence
+"	
+is	be
+used	use
+to	
+describe	describe
+machines	machine
+that	
+mimic	mimic
+"	
+cognitive	cognitive
+"	
+functions	function
+that	
+humans	human
+associate	associate
+with	
+other	other
+human	human
+minds	mind
+,	
+such	such
+as	
+"	
+learning	learn
+"	
+and	
+"	
+problem	problem
+solving	solve
+"	
+.	
+[	
+1	
+]	
+\n	
+As	
+machines	machine
+become	become
+increasingly	increasingly
+capable	capable
+,	
+tasks	task
+considered	consider
+to	
+require	require
+"	
+intelligence	intelligence
+"	
+are	be
+often	often
+removed	remove
+from	
+the	
+definition	definition
+of	
+AI	ai
+,	
+a	
+phenomenon	phenomenon
+known	know
+as	
+the	
+AI	ai
+effect	effect
+.	
+[	
+2	
+]	
+A	
+quip	quip
+in	
+Tesler's	
+Theorem	theorem
+says	say
+"	
+AI	ai
+is	be
+whatever	
+hasn't	
+been	be
+done	do
+yet	yet
+.	
+"	
+[	
+3	
+]	
+For	
+instance	instance
+,	
+optical	optical
+character	character
+recognition	recognition
+is	be
+frequently	frequently
+excluded	exclude
+from	
+things	thing
+considered	consider
+to	
+be	be
+AI	ai
+,	
+having	have
+become	become
+a	
+routine	routine
+technology	technology
+.	
+[	
+4	
+]	
+Modern	modern
+machine	machine
+capabilities	capability
+generally	generally
+classified	classify
+as	
+AI	ai
+include	include
+successfully	successfully
+understanding	understanding
+human	human
+speech	speech
+,	
+[	
+5	
+]	
+competing	compete
+at	
+the	
+highest	high
+level	level
+in	
+strategic	strategic
+game	game
+systems	system
+(	
+such	such
+as	
+chess	chess
+and	
+Go	go
+)	
+,	
+[	
+6	
+]	
+autonomously	autonomously
+operating	operate
+cars	car
+,	
+intelligent	intelligent
+routing	
+in	
+content	content
+delivery	delivery
+networks	network
+,	
+and	
+military	military
+simulations	simulation
+.	
+\n	
+Artificial	artificial
+intelligence	intelligence
+can	can
+be	be
+classified	classify
+into	
+three	
+different	different
+types	type
+of	
+systems	system
+:	
+analytical	analytical
+,	
+human-inspired	
+,	
+and	
+humanized	humanize
+artificial	artificial
+intelligence	intelligence
+.	
+[	
+7	
+]	
+Analytical	analytical
+AI	ai
+has	have
+only	only
+characteristics	characteristic
+consistent	consistent
+with	
+cognitive	cognitive
+intelligence	intelligence
+;	
+generating	generate
+a	
+cognitive	cognitive
+representation	representation
+of	
+the	
+world	world
+and	
+using	use
+learning	learn
+based	base
+on	
+past	past
+experience	experience
+to	
+inform	inform
+future	future
+decisions	decision
+.	
+Human-inspired	
+AI	ai
+has	have
+elements	element
+from	
+cognitive	cognitive
+and	
+emotional	emotional
+intelligence	intelligence
+;	
+understanding	understanding
+human	human
+emotions	emotion
+,	
+in	
+addition	addition
+to	
+cognitive	cognitive
+elements	element
+,	
+and	
+considering	consider
+them	
+in	
+their	
+decision	decision
+making	making
+.	
+Humanized	
+AI	ai
+shows	show
+characteristics	characteristic
+of	
+all	
+types	type
+of	
+competencies	competency
+(	
+i	i
+.	
+e	e
+.	
+,	
+cognitive	cognitive
+,	
+emotional	emotional
+,	
+and	
+social	social
+intelligence	intelligence
+)	
+,	
+is	be
+able	able
+to	
+be	be
+self-conscious	
+and	
+is	be
+self-aware	
+in	
+interactions	interaction
+with	
+others	
+.	
+\n	
+Artificial	artificial
+intelligence	intelligence
+was	be
+founded	found
+as	
+an	
+academic	academic
+discipline	discipline
+in	
+1956	
+,	
+and	
+in	
+the	
+years	year
+since	
+has	have
+experienced	experience
+several	several
+waves	wave
+of	
+optimism	optimism
+,	
+[8	
+]	
+[	
+9	
+]	
+followed	follow
+by	
+disappointment	disappointment
+and	
+the	
+loss	loss
+of	
+funding	funding
+(	
+known	know
+as	
+an	
+"	
+AI	ai
+winter	winter
+"	
+)	
+,	
+[	
+10	
+]	
+[	
+11	
+]	
+followed	follow
+by	
+new	new
+approaches	approach
+,	
+success	success
+and	
+renewed	renew
+funding	funding
+.	
+[	
+9	
+]	
+[	
+12	
+]	
+For	
+most	most
+of	
+its	
+history	history
+,	
+AI	ai
+research	research
+has	have
+been	be
+divided	divide
+into	
+subfields	
+that	
+often	often
+fail	fail
+to	
+communicate	communicate
+with	
+each	
+other	other
+.	
+[	
+13	
+]	
+These	
+sub-fields	
+are	be
+based	base
+on	
+technical	technical
+considerations	consideration
+,	
+such	such
+as	
+particular	particular
+goals	goal
+(	
+e	e
+.	
+g	g
+.	
+"	
+robotics	robotics
+"	
+or	
+"	
+machine	machine
+learning	learn
+"	
+)	
+,	
+[	
+14	
+]	
+the	
+use	use
+of	
+particular	particular
+tools	tool
+(	
+"	
+logic	logic
+"	
+or	
+artificial	artificial
+neural	neural
+networks	network
+)	
+,	
+or	
+deep	deep
+philosophical	philosophical
+differences	difference
+.	
+[	
+15	
+]	
+[	
+16	
+]	
+[	
+17	
+]	
+Subfields	
+have	have
+also	also
+been	be
+based	base
+on	
+social	social
+factors	factor
+(	
+particular	particular
+institutions	institution
+or	
+the	
+work	work
+of	
+particular	particular
+researchers	researcher
+)	
+.	
+[	
+13	
+]	
+\n	
+The	
+traditional	traditional
+problems	problem
+(	
+or	
+goals	goal
+)	
+of	
+AI	ai
+research	research
+include	include
+reasoning	reason
+,	
+knowledge	knowledge
+representation	representation
+,	
+planning	planning
+,	
+learning	learning
+,	
+natural	natural
+language	language
+processing	processing
+,	
+perception	perception
+and	
+the	
+ability	ability
+to	
+move	move
+and	
+manipulate	manipulate
+objects	object
+.	
+[	
+14	
+]	
+General	general
+intelligence	intelligence
+is	be
+among	
+the	
+field's	
+long-term	
+goals	goal
+.	
+[	
+18	
+]	
+Approaches	approach
+include	include
+statistical	statistical
+methods	method
+,	
+computational	computational
+intelligence	intelligence
+,	
+and	
+traditional	traditional
+symbolic	symbolic
+AI	ai
+.	
+Many	many
+tools	tool
+are	be
+used	use
+in	
+AI	ai
+,	
+including	include
+versions	version
+of	
+search	search
+and	
+mathematical	mathematical
+optimization	optimization
+,	
+artificial	artificial
+neural	neural
+networks	network
+,	
+and	
+methods	method
+based	base
+on	
+statistics	statistic
+,	
+probability	probability
+and	
+economics	economics
+.	
+The	
+AI	ai
+field	field
+draws	draw
+upon	
+computer	computer
+science	science
+,	
+information	information
+engineering	engineering
+,	
+mathematics	mathematics
+,	
+psychology	psychology
+,	
+linguistics	linguistics
+,	
+philosophy	philosophy
+,	
+and	
+many	many
+other	other
+fields	field
+.	
+\n	
+The	
+field	field
+was	be
+founded	found
+on	
+the	
+claim	claim
+that	
+human	human
+intelligence	intelligence
+"	
+can	can
+be	be
+so	so
+precisely	precisely
+described	describe
+that	
+a	
+machine	machine
+can	can
+be	be
+made	make
+to	
+simulate	simulate
+it	
+"	
+.	
+[	
+19	
+]	
+This	
+raises	raise
+philosophical	philosophical
+arguments	argument
+about	
+the	
+nature	nature
+of	
+the	
+mind	mind
+and	
+the	
+ethics	ethic
+of	
+creating	create
+artificial	artificial
+beings	being
+endowed	endow
+with	
+human-like	
+intelligence	intelligence
+which	
+are	be
+issues	issue
+that	
+have	have
+been	be
+explored	explore
+by	
+myth	myth
+,	
+fiction	fiction
+and	
+philosophy	philosophy
+since	
+antiquity	antiquity
+.	
+[	
+20	
+]	
+Some	
+people	people
+also	also
+consider	consider
+AI	ai
+to	
+be	be
+a	
+danger	danger
+to	
+humanity	humanity
+if	
+it	
+progresses	progress
+unabated	unabated
+.	
+[	
+21	
+]	
+Others	
+believe	believe
+that	
+AI	ai
+,	
+unlike	
+previous	previous
+technological	technological
+revolutions	revolution
+,	
+will	will
+create	create
+a	
+risk	risk
+of	
+mass	mass
+unemployment	unemployment
+.	
+[	
+22	
+]	
+\n	
+In	
+the	
+twenty-first	
+century	century
+,	
+AI	ai
+techniques	technique
+have	have
+experienced	experience
+a	
+resurgence	resurgence
+following	follow
+concurrent	concurrent
+advances	advance
+in	
+computer	computer
+power	power
+,	
+large	large
+amounts	amount
+of	
+data	data
+,	
+and	
+theoretical	theoretical
+understanding	understanding
+;	
+and	
+AI	ai
+techniques	technique
+have	have
+become	become
+an	
+essential	essential
+part	part
+of	
+the	
+technology	technology
+industry	industry
+,	
+helping	help
+to	
+solve	solve
+many	many
+challenging	challenge
+problems	problem
+in	
+computer	computer
+science	science
+,	
+software	software
+engineering	engineering
+and	
+operations	operation
+research	research
+.	
+[	
+23	
+]	
+[	
+12	
+]	
+\n	

@@ -1,0 +1,334 @@
+Scientists	scientist
+say	say
+their	
+robots	robot
+will	will
+soon	soon
+be	be
+able	able
+to	
+run	run
+like	
+cheetahs	cheetah
+.	
+\n	
+But	
+for	
+now	now
+,	
+the	
+different	different
+technologies	technology
+that	
+will	will
+bring	bring
+them	
+closer	close
+to	
+everyday	everyday
+life	life
+are	be
+still	still
+being	be
+tested	test
+.	
+\n	
+One	
+of	
+the	
+obstacles	obstacle
+continues	continue
+to	
+be	be
+power	power
+consumption	consumption
+.	
+\n	
+These	
+complicated	complicate
+machines	machine
+are	be
+still	still
+relatively	relatively
+heavy	heavy
+and	
+their	
+numerous	numerous
+motors	motor
+require	require
+a	
+lot	lot
+of	
+energy	energy
+to	
+run	run
+.	
+\n	
+The	
+most	most
+powerful	powerful
+among	
+them	
+are	be
+either	either
+tethered	tether
+to	
+a	
+power	power
+source	source
+or	
+have	have
+a	
+gasoline-powered	
+generator	generator
+onboard	
+.	
+\n	
+But	
+engineers	engineer
+at	
+the	
+Massachusetts	massachusetts
+Institute	institute
+of	
+Technology	technology
+have	have
+designed	design
+a	
+30	
+-	
+kilogram	kilogram
+cheetah-like	
+robot	robot
+that	
+is	be
+light	light
+enough	enough
+to	
+run	run
+on	
+batteries	battery
+.	
+\n	
+“	
+This	
+robot	robot
+can	can
+actually	actually
+jump	jump
+40	
+centimeters	centimeter
+high	high
+and	
+it	
+can	can
+land	land
+very	very
+safely	safely
+\n	
+and	
+then	then
+it	
+can	can
+run	run
+,	
+sprint	sprint
+,	
+\n	
+because	
+of	
+the	
+special	special
+,	
+motor	motor
+technology	technology
+we	
+developed	develop
+,	
+”	
+said	say
+Sangbae	
+Kim	
+,	
+director	director
+of	
+MIT	mit
+Biomimetics	
+Robotic	robotic
+Lab	lab
+.	
+\n	
+Kim	
+says	say
+the	
+robot	robot
+needs	need
+only	only
+about	about
+700	
+watts	watt
+of	
+power	power
+.	
+\n	
+Its	
+limbs	limb
+and	
+other	other
+parts	part
+were	be
+made	make
+in	
+a	
+3	
+-	
+D	d
+printer	printer
+\n	
+and	
+reinforced	reinforce
+with	
+the	
+strong	strong
+,	
+light-weight	
+plastic	plastic
+called	call
+Kevlar	
+,	
+used	use
+for	
+modern	modern
+military	military
+helmets	helmet
+and	
+bodysuits	
+.	
+\n	
+“	
+The	
+frame	frame
+has	have
+to	
+be	be
+very	very
+light	light
+and	
+very	very
+stiff	stiff
+,	
+so	
+we	
+designed	design
+this	
+frame	frame
+to	
+handle	handle
+these	
+high	high
+forces	force
+and	
+the	
+high	high
+shock	shock
+,	
+”	
+he	
+said	say
+.	
+\n	
+But	
+the	
+development	development
+of	
+MIT's	
+robot	robot
+is	be
+not	not
+without	
+setbacks	setback
+.	
+\n	
+Its	
+limbs	limb
+must	must
+sustain	sustain
+tremendous	tremendous
+force	force
+and	
+sometimes	sometimes
+they	
+break	break
+.	
+\n	
+Kim	
+says	say
+another	
+special	special
+feature	feature
+is	be
+the	
+custom-made	
+motor	motor
+controller	controller
+.	
+\n	
+“	
+It	
+is	be
+also	also
+designed	design
+by	
+us	
+because	
+none	none
+of	
+the	
+commercially	commercially
+available	available
+products	product
+can	can
+handle	handle
+this	
+kind	kind
+of	
+power	power
+,	
+”	
+he	
+said	say
+.	
+\n	
+Researchers	researcher
+say	say
+the	
+new	new
+technologies	technology
+used	use
+on	
+this	
+robot	robot
+may	may
+find	find
+their	
+way	way
+\n	
+to	
+artificial	artificial
+limbs	limb
+as	as
+well	well
+as	
+other	other
+high-tech	
+machines	machine
+being	be
+developed	develop
+to	
+replace	replace
+humans	human
+at	
+back-breaking	
+jobs	job
+.	
+\n	
