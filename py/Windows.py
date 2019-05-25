@@ -8,6 +8,7 @@ import os
 class ArticleWin():
 
     def __init__(self, root, articleid, parent):
+        self.checkword = False
         self.article = Article()
         self.article.read_usingid(articleid)
         self.parent = parent
